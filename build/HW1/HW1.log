@@ -1,0 +1,52 @@
+﻿  main.cpp
+D:\Opengl _final\include\config.h(1,1): warning C4005: 'GLFW_INCLUDE_NONE': 巨集重複定義
+D:\Opengl _final\src\main.cpp : message : 請參閱 'GLFW_INCLUDE_NONE' 之前的定義
+D:\Opengl _final\include\VAO.h(19,64): warning C4244: '引數': 將 'GLsizeiptr' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+D:\Opengl _final\include\camera.h(21,22): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Opengl _final\include\camera.h(26,24): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\Opengl _final\include\camera.h(186,1): warning C4305: '-=': 從 'double' 轉換為 'T'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+D:\Opengl _final\include\camera.h(189,1): warning C4305: '+=': 從 'double' 轉換為 'T'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+D:\Opengl _final\include\Mesh.h(98,104): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Opengl _final\include\Mesh.h(98,77): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\Opengl _final\include\Mesh.h(101,1): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\Opengl _final\include\Objmodel.h(42,1): warning C4267: '引數': 將 'size_t' 轉換為 'GLsizei'，資料可能遺失
+D:\Opengl _final\include\Objmodel.h(104,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\include\Objmodel.h(105,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\include\Objmodel.h(106,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\include\Objmodel.h(107,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\include\Objmodel.h(108,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\include\Objmodel.h(109,1): warning C4267: '引數': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+          with
+          [
+              _Ty=GLuint
+          ]
+D:\Opengl _final\src\main.cpp(161,44): warning C4267: '+=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  HW1.vcxproj -> D:\Opengl _final\bin\final.exe
